@@ -34,7 +34,7 @@ fun TodoItem(todo: Todo, viewModel: TodoViewModel) {
             )
             todo.dueDate?.let {
                 Text(
-                    text = "Due: ${SimpleDateFormat("dd/MM/yyyy", Locale.getDefault()).format(Date(it))}",
+                    text = "Date échéance: ${SimpleDateFormat("dd/MM/yyyy", Locale.getDefault()).format(Date(it))}",
                     style = MaterialTheme.typography.bodySmall
                 )
             }
