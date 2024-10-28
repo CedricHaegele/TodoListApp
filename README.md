@@ -35,7 +35,12 @@ Une application Android moderne de gestion de tâches développée avec Jetpack 
 
 ## Captures d'écran
 
-[À venir]
+![image](https://github.com/user-attachments/assets/f5df6052-5c4f-4f05-87fa-86e7158b98d5)
+![image](https://github.com/user-attachments/assets/c9c71f35-9dfc-46f4-adf2-28df520a1afb)
+![image](https://github.com/user-attachments/assets/8d88afac-142c-4798-97be-51013dba68ac)
+
+
+
 
 ## Auteur
 
