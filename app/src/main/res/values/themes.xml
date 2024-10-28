@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TodoListApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Vous pouvez personnaliser votre thème ici si nécessaire -->
+    </style>
+</resources>
