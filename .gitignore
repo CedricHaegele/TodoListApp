@@ -1,0 +1,83 @@
+# Fichiers et dossiers spécifiques à Gradle
+.gradle/
+build/
+
+# Fichiers de configuration locale
+local.properties
+
+# Fichiers générés par Android Studio
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Fichiers de build
+/*/build/
+/build
+
+# Fichiers générés par NDK
+obj/
+
+# Fichiers de log
+*.log
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+
+# Fichiers de capture Android Studio
+captures/
+
+# Fichiers de configuration IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Fichiers Keystore
+*.jks
+*.keystore
+
+# Fichiers de performance Android Studio
+*.hprof
+
+# Fichiers de configuration externe
+.externalNativeBuild
+.cxx/
+
+# Google Services (ex. APIs ou Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
+
+# ObjectBox
+objectbox-models/
+
+# Fichiers spécifiques à votre projet
+*.hprof
